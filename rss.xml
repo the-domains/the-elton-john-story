@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Elton John Story]]></title>
+        <description><![CDATA[The Elton John Story]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 01:27:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cb1548-18df-45a1-8a88-5ff881bfed07.jpg">]]></description>
+            <link>undefinedhi-my-name-is-jimmy-love-im-an-actor-singer-and-celebri/index.html</link>
+            <guid isPermaLink="false">e41c2a32-8208-4b42-bd54-b2243cb6f4d1</guid>
+            <pubDate>Thu, 19 May 2016 01:27:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
