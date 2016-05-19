@@ -1,0 +1,28 @@
+name: The Elton John Story
+favicon: null
+layout_spectrum: 0.5924268835224211
+typography_spectrum: 0.4455713762436062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5492191314697266
+  lightness: 0.37156936270184815
+  saturation: 0.5000150946434587
+  rhythmicContrast: 0.1022247881628573
+purpose: []
